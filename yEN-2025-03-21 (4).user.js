@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 const url = "https://kullaniciadi.github.io/betik-lisans/license.json";
-
+false
 
 (function() {
     'use strict';
